@@ -1,0 +1,12 @@
+# Archivos y directorios generados por pytest
+.pytest_cache/
+.coverage
+
+# Ambiente virtual
+nuevo_venv/
+
+# Informes de cobertura
+htmlcov/
+
+# Archivos de dependencias alternativos (si no se usan)
+Pipfile
